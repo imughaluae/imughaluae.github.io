@@ -1,1 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;@layer base{body{@apply bg-gray-50 text-gray-900;}}@layer utilities{.print-only{display:none}}@media print{@page{margin:1cm;size:landscape}.no-print{display:none!important}.print-only{display:block!important}body{background-color:#fff}*{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important}}
